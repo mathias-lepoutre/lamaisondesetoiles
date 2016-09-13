@@ -57,7 +57,7 @@ body{
     font-family: 'Pacifico';
     display: block;
     padding: .5em 1em;
-    background: #00c400;
+    background: #00CE30;
 }
 .header{
 position:relative;
@@ -66,10 +66,10 @@ position:relative;
   margin-top: 8em;
 }
 .top-menu ul li a:hover {
-    color: #00ff00;
+    color: #00CE30;
 }
 .top-menu ul li a.active {
-    color: #00ff00;
+    color: #00CE30;
 }
 .header {
     background-color: #eee;
