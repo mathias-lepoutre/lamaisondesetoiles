@@ -1107,7 +1107,7 @@ h2.typoh2{
     line-height: 2em;
 }
 .contact-form-left h5 {
-	color:#9ec503;
+	color: #BF6E34;
 	font-size: 18px;
 	font-weight: 600;
 	margin: 1.5em 0;
@@ -1118,7 +1118,7 @@ h2.typoh2{
 	text-decoration:none;
 }
 .contact-form-left a:hover{
-	color:#B2BDD4;
+	color:#2f3e5d;
 	text-decoration:none;
 	transition:.5s all;
 }
