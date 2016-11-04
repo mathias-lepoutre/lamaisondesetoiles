@@ -1793,8 +1793,8 @@ a.button {
     font-size: .8em;
 }
 .top-menu ul {
-    width: 90%;
-    left: 5%;
+    width: 100%;
+    
 }
 .ban1 {
     min-height: 45px !important;
