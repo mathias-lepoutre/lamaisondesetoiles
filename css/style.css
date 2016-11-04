@@ -1799,7 +1799,7 @@ a.button {
 }
 .top-menu ul {
     width: 100%;
-    
+    padding: 0;
 }
 .ban1 {
     min-height: 45px !important;
