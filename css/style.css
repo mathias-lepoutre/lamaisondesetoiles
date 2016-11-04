@@ -63,7 +63,7 @@ body{
 position:relative;
 }
 .top-header {
-  margin-top: 8em;
+  margin-top: 0em;
 }
 .top-menu ul li a:hover {
     color: #F0741B;
@@ -101,7 +101,7 @@ position:relative;
 .header-banner-bis {
     background: #eee;
     background-size: cover;
-	 min-height: 400px;
+	 min-height: 600px;
 }
 span.menu {
     display: none;
