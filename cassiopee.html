@@ -57,15 +57,47 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 							</h4>
 		
 	<!--caroussel-->
-		<div id="slider">
-  			<figure>
-				<img src="austin-fireworks.jpg" alt>
-				<img src="taj-mahal.jpg" alt>
-				<img src="ibiza.jpg" alt>
-				<img src="ankor-wat.jpg" alt>
-				<img src="austin-fireworks.jpg" alt>
-		  	</figure>				
-							
+		<script src="js/jquery-1.11.1.min.js"></script>
+<script src="js/responsiveslides.min.js"></script>
+ <script>
+    $(function () {
+      $("#slider").responsiveSlides({
+      	auto: true,
+      	nav: true,
+      	speed: 500,
+        namespace: "callbacks",
+        pager: true,
+      });
+    });
+  </script>
+		<div class="header-banner-bis">
+					<div class="slider">
+						<div class="container">
+							<div class="callbacks_container">
+								<ul class="rslides" id="slider">
+									<li>	
+										<img src="images/Lesgites/grandeourse/(1).jpg"/>
+									</li>
+									<li>
+										<img src="images/Lesgites/grandeourse/(2).jpg"/>
+									</li>
+									<li>	
+										<img src="images/Lesgites/grandeourse/(3).jpg"/>
+									</li>
+									<li>	
+										<img src="images/Lesgites/grandeourse/(4).jpg"/>
+									</li>
+									<li>
+										<img src="images/Lesgites/grandeourse/(6).jpg"/>
+									</li>
+									<li>	
+										<img src="images/Lesgites/grandeourse/(8).jpg"/>
+									</li>
+								</ul>
+							</div>
+						</div>
+					</div>
+				</div>
 	<!--Tarifs-->
 		<div class="advantages">
 					<div class="container">
