@@ -98,6 +98,11 @@ position:relative;
     background-size: cover;
 	 min-height: 721px;
 }
+.header-banner-bis {
+    background: #eee;
+    background-size: cover;
+	 min-height: 400px;
+}
 span.menu {
     display: none;
 }
